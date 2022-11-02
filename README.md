@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bronzebasket
 - 👀 I’m interested in Computer Engineering
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m collaborating on a movie website project
 - 📫 How to reach me by email :)
 
 <!---
